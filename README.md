@@ -19,3 +19,6 @@ Arquivos SQL:
 - MICRODADOS-2020.sql - Guarda o comando de criação da tabela prova.microdados_2020.
 - MOD_ESTRELA.sql - Guarda os comandos de criação das tabelas Fato e Dimensão.
 - ATUALIZA_MODELO_PROVA.sql - Guarda o código da procedure prova.atualiza_modelo_prova.
+
+Modelagem de Dados:
+- MODELO_ESTRELA_MICRODADOS_ENEM_2020.pdf - Modelagem estrela para os microdados do Enem-2020.
