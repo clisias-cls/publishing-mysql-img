@@ -22,3 +22,6 @@ Arquivos SQL:
 
 Modelagem de Dados:
 - MODELO_ESTRELA_MICRODADOS_ENEM_2020.pdf - Modelagem estrela para os microdados do Enem-2020.
+
+Arquivo Word:
+- QUESTIONÁRIO - MICRODADOS ENEM-2020.docx - Respostas do questionário
