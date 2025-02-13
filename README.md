@@ -11,6 +11,9 @@ Objetos gerados no container:
 - Tabela prova.fato_prova - Tabela Fato com os dados das provas realizadas do enem-2020 por participante.
 - Procedure prova.atualiza_modelo_prova - Lê os dados transformados da tabela prova.microdados_2020 e distribui na tabela Fato e nas Dimensões.
 
+Modelo de Dados
+- MODELO_ESTRELA_MICRODADOS_ENEM_2020.pdf - Desenho da modelagem (modelo estrela) para os microdados do Enem-2020.
+
 Carga dos dados: Efetuada por scripts python.
 - CARGA_MICRODADOS_ENEM.py - Efetua a carga da tabela prova.microdados_2020 realizando as transformações necessárias para a análise dos dados.
 - CARGA_ENEM.py - Executa a proc prova.atualiza_modelo_prova após a carga inicial.
