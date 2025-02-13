@@ -1,6 +1,6 @@
-# publishing-mysql-img
-Repositório para publicação do container MySQL gerada no Docker no Github.
-- Nome do Container: cls-mysql
+# Repositório "publishing-mysql-img"
+Repositório para publicação do container MySQL gerada no Docker no Github e de todos os componentes e documentos do projeto.
+- Nome do Docker Container: cls-mysql
 
 Objetos gerados no container:
 - Database prova
