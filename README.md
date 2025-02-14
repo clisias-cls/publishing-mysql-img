@@ -32,3 +32,6 @@ Arquivo Word:
 Visualizações dos Indicadores
 - Arquivos de extensão .twb com diversas visualizações gráficas para compreensão dos indicadores solicitados
 - Arquivos de extensão .hyper e.zip que são as extrações dos dados da base MySQL. Desta forma, as visualizações podem ser utilizadas mesmo sem o acesso à base de dados.
+
+Insights
+- CONCLUSÕES E INSIGHTS.docx - 10 insights levantados a partir da análise das visualizações dos dados no Tableau.
