@@ -28,3 +28,7 @@ Modelagem de Dados:
 
 Arquivo Word:
 - QUESTIONÁRIO - MICRODADOS ENEM-2020.docx - Respostas do questionário
+
+Visualizações dos Indicadores
+- Arquivos de extensão .twb com diversas visualizações gráficas para compreensão dos indicadores solicitados
+- Arquivos de extensão .hyper e.zip que são as extrações dos dados da base MySQL. Desta forma, as visualizações podem ser utilizadas mesmo sem o acesso à base de dados.
