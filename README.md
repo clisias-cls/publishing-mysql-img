@@ -1,5 +1,5 @@
 # Repositório "publishing-mysql-img"
-Repositório para publicação do container MySQL gerada no Docker no Github e de todos os componentes e documentos do projeto.
+Repositório para publicação do container MySQL gerado no Docker e de todos os componentes e documentos do projeto de análise da prova do Enem 2020.
 - Nome do Docker Container: cls-mysql
 
 Objetos gerados no container:
